@@ -1,0 +1,2 @@
+per = 'hei på deg, per'
+print(per)
